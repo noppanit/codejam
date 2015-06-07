@@ -1,4 +1,4 @@
-# Reverse Words !(https://code.google.com/codejam/contest/dashboard?c=351101#s=p1)
+# [Reverse Words](https://code.google.com/codejam/contest/dashboard?c=351101#s=p1)
 
 Problem
 
