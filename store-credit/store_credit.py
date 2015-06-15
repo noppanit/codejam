@@ -1,4 +1,3 @@
-import pprint
 lines = []
 def chunks(l, n):
     """Yield successive n-sized chunks from l."""
